@@ -30,7 +30,11 @@
       {
         "organization": {
           "name": "Telefónica",
-          "URL": "http://www.google.com"
+          "image": {
+            "alt": "logo_tf.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/21a2bad2-c24d-4bf5-aea2-bdccd42dc056_logo_tf.jpg"
+          },
+          "URL": ""
         },
         "roles": [
           {
