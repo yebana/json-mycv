@@ -29,7 +29,8 @@
     "jobs": [
       {
         "organization": {
-          "name": "Telefónica"
+          "name": "Telefónica",
+          "URL": "http://www.google.com"
         },
         "roles": [
           {
