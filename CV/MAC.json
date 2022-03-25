@@ -10,6 +10,10 @@
       "surnames": "Castillo Yébana",
       "title": "Presales Cloud Architect at Telefónica",
       "description": "La tecnología es mi hobby, me gustan los retos técnicos que me llevan al aprendizaje continuo. Por experiencia tengo perfil generalista de sistemas pero me atrae el mundo del soporte al desarrollo y aplicaciones.",
+      "avatar": {
+        "alt": "avatar1.png",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/606ca86d-02ff-46e8-9109-61ed2e9ee5b2_avatar1.png"
+      },
       "location": {
         "notes": "Madrid"
       }
